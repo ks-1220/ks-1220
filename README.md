@@ -1,11 +1,7 @@
-## Hey there 👋
+
 
 ![](https://komarev.com/ghpvc/?username=ks-1220&label=Profile%20Views&color=0e75b6&style=flat)
 
-
-<p align="center">
-  <img src="./banner1.png" width="100%" alt="Banner">
-</p>
 
 <h1 align="center">Hi 👋, I'm Kritika Singh</h1>
 
